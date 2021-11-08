@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ansible-foreman-examples
 ======
 
@@ -15,4 +14,3 @@ Author Information
 Gianfranco Sigrisi
 =======
 # ansible-tower-examples
->>>>>>> 356b39e4d5a34ebc51f9914456bcca465f6833ec
