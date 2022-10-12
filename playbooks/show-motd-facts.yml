@@ -2,7 +2,7 @@
 - name: Show Satellite variables
   hosts: "{{ targeted_hosts }}"
   gather_facts: false
-  ignore_unreachable: yes
+  ignore_errors: true
 
   tasks:
   - name: Show subscription_status
